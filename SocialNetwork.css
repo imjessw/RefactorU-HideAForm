@@ -1,0 +1,52 @@
+
+body{
+	margin: 30px 30px 30px 30px;
+	background-color: #C0C0C0;
+}
+#container{
+	display: block;
+	text-align: center;
+	border: 2px solid black;
+	position: relative;
+}
+
+
+#heading{
+font-size: 25px;
+text-align: center;
+}
+
+
+#profilePic{
+	float: left;
+	display: block;
+	margin-right: 15px;
+	height: 15px;
+	width: 25px;
+
+}
+#bio{
+	/*float:right;*/
+	display: block;
+	text-align: center;
+	border: 2px solid black;
+	margin-left: 50%
+}
+#books{
+	margin-top: 15px;
+	display: block;
+	text-align: center;
+	border: 2px solid black;
+	margin-left: 50%
+}
+
+#container{
+	float: right;
+}
+
+.form-control {
+	display: none;
+}
+.submit{
+	display:none;
+}
